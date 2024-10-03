@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <h1>Contact page</h1>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Sequi sit ex dolore asperiores libero molestias nobis
+        corrupti adipisci, deleniti reprehenderit similique ipsum saepe, aliquam vitae cupiditate rem? Ipsa,
+        voluptatibus. Nesciunt.
+
+
+        Using Git desktop.
+        
+        This is new paragraph added in local
+
+
+        This is new change done by rohit
+    </p>
+</body>
+
+</html>
